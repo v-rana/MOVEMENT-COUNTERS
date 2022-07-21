@@ -9,3 +9,5 @@ Count the reps of basic excercises:
 * OpenCV
 * Mediapipe
 * Numpy
+## Credits
+https://github.com/nicknochnack/MediaPipePoseEstimation
